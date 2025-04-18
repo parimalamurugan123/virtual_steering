@@ -37,9 +37,9 @@ pip install tensorflow opencv-python mediapipe pyautogui
 VirtualHandSteering/
 ├── gesture_model.h5       # Trained Keras model file
 ├── README.md              # This documentation
-├── dataset/               # Your collected images (left/right/straight/stop)
-├── train_model.py         # Script to preprocess, train, and save the model
-└── realtime_control.py    # Real-time gesture prediction & key control
+├── collecting_dataset.ipynb/               # Your collected images (left/right/straight/stop)
+├── cleaning &model_creation.ipynb/         # Script to preprocess, train, and save the model
+└── final.ipynb    # Real-time gesture prediction & key control
 ```
 
 ---
