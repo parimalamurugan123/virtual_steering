@@ -124,7 +124,6 @@ python realtime_control.py
 
 ---
 ## OUTPUT
-<img src=""C:\Users\kavit\OneDrive\Pictures\Screenshots\Screenshot 2025-05-02 193951.png"" alt="Preview" width="300"/>
 
 
 
