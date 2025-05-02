@@ -128,5 +128,9 @@ python realtime_control.py
 
 
 
+https://github.com/user-attachments/assets/9756f277-23aa-4cd8-8a80-fc7c072e3cdc
+
+
+
 Made with ❤️ by Your parimala
 
